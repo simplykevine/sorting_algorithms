@@ -19,6 +19,8 @@
  * @l: The index of the left item.
  *
  */
+
+
 void selection_sort(int *array, size_t size)
 {
 	size_t i, j, min;
